@@ -1,4 +1,4 @@
-import React, { Fragment } from "react";
+import React from "react";
 import CartIcon from "../Cart/CartIcon";
 import classes from "../Layout/HeaderCartButton.module.css"
 
